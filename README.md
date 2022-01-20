@@ -1,6 +1,6 @@
 -Hi, I’m @HadiGharibi
 
--I’m interested in Industrial Automation, YOGA and Travelling.
+-I’m interested in Control Systems, YOGA and Travelling.
 
 -I’m currently learning C++, JAVA
 
