@@ -1,8 +1,8 @@
 -Hi, I’m @HadiGharibi
 
--I’m interested in Control Systems, YOGA and Travelling.
+-I’m interested in Control Systems, YOGA, Travelling and Writing.
 
--I’m currently learning C++, JAVA
+-I’m currently learning C++ and JAVA
 
 -I'm looking to collaborate on New SCADA/HMI/PLC Projects.
 
