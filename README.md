@@ -2,12 +2,9 @@
 
 -I’m interested in Control Systems, YOGA, Travelling and Writing.
 
--I’m currently learning C++ and JAVA
-
--I'm looking to collaborate on New SCADA/HMI/PLC Projects.
+-I'm looking to collaborate on New SCADA/EMS Control Centers Projects.
 
 -You can contact me: hadi.gharibi@gmail.com
-
 
 <!---
 HadiGharibi/HadiGharibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
